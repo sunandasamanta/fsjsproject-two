@@ -59,22 +59,21 @@ body {
     margin-top: 10rem;
     margin-bottom: 0;
     font-weight: 800;
-    font-size: 64px;
+    font-size: 5rem;
 }
 .hero-description {
     font-weight: 400;
-    font-size: 24px;
-    margin: 0;
+    font-size: 1.75rem;
+    margin: 0.5rem 0 5rem 0;
 }
 .button-large {
     background-color: #b145ad;
     color: #fff;
     font-size: 1rem;
     border: none;
-    padding: 10px;
+    padding: 1rem 2rem 1rem 2rem;
     border-radius: 5px;
     font-weight: bold;
-    font-size: 1.25rem;
+    font-size: 1.75rem;
     margin-top: 2rem;
-    width: 16rem;
 }
